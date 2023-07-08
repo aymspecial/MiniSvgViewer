@@ -1,5 +1,6 @@
 # MiniSvgViewer
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/6201814/251465225-57b7f781-f322-4522-8870-2ba2fa7c1bc3.gif">
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/6201814/251465225-57b7f781-f322-4522-8870-2ba2fa7c1bc3.gif" width="444px">
+
 
 ## Motivations
 1. SVG is very useful format by using vector graphics. We can use SVG with free width and height. But I couldn't find how use SVG with my own Win32/C# project.
